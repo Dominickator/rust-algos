@@ -15,13 +15,13 @@ Just use `rustc <name of file>` to create an executable file.
 
 #### Linear and Binary Search:
 
-- [ ] Linear Search
-- [ ] Binary Search
+- [x] Linear Search
+- [x] Binary Search
 
 #### Data Structures:
 
-- [ ] Linked Lists
-- [ ] Stacks and Queues
+- [x] Linked Lists
+- [x] Stacks and Queues
 
 #### Complex Sorting Algorithms:
 
