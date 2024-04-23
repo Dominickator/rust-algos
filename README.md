@@ -25,8 +25,8 @@ Just use `rustc <name of file>` to create an executable file.
 
 #### Complex Sorting Algorithms:
 
-- [ ] Merge Sort
-- [ ] Quick Sort
+- [x] Merge Sort
+- [x] Quick Sort
 
 #### Trees:
 
